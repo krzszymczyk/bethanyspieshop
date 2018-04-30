@@ -20,3 +20,14 @@
 /Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.AssemblyInfo.cs
 /Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.dll
 /Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.pdb
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojResolveAssemblyReference.cache
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Folder osobisty\Pluralsight\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
