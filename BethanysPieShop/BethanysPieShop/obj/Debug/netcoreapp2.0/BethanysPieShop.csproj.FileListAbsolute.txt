@@ -30,3 +30,14 @@ C:/Folder osobisty/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcore
 /Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.AssemblyInfo.cs
 /Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.dll
 /Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.pdb
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/bin/Debug/netcoreapp2.0/BethanysPieShop.deps.json
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/bin/Debug/netcoreapp2.0/BethanysPieShop.runtimeconfig.json
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/bin/Debug/netcoreapp2.0/BethanysPieShop.runtimeconfig.dev.json
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/bin/Debug/netcoreapp2.0/BethanysPieShop.dll
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/bin/Debug/netcoreapp2.0/BethanysPieShop.pdb
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.csprojResolveAssemblyReference.cache
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.csproj.CoreCompileInputs.cache
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.AssemblyInfoInputs.cache
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.AssemblyInfo.cs
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.dll
+/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj/Debug/netcoreapp2.0/BethanysPieShop.pdb

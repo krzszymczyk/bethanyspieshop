@@ -13124,11 +13124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+      "projectUniqueName": "/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "/Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
+      "projectPath": "/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj",
       "packagesPath": "/Users/krzysztof/.nuget/packages/",
-      "outputPath": "/Users/krzysztof/Projects/Pluralsight/BethanysPieShop/BethanysPieShop/obj",
+      "outputPath": "/Users/krzysztof/Projects/Pluralsight/bethanyspieshop.git/BethanysPieShop/BethanysPieShop/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
