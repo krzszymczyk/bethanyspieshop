@@ -1,7 +1,13 @@
 ﻿<Properties StartupConfiguration="{DF157F4E-D8F5-49DF-8E03-8E0CD122AE89}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop Status">
     <Files>
-      <File FileName="BethanysPieShop/Controllers/FeedbackController.cs" Line="7" Column="1" />
+      <File FileName="BethanysPieShop/Controllers/FeedbackController.cs" Line="6" Column="1" />
+      <File FileName="BethanysPieShop/Startup.cs" Line="11" Column="42" />
+      <File FileName="BethanysPieShop/Controllers/AccountController.cs" Line="42" Column="18" />
+      <File FileName="BethanysPieShop/Views/Account/Login.cshtml" Line="30" Column="8" />
+      <File FileName="BethanysPieShop/ViewModels/LoginViewModel.cs" Line="7" Column="6" />
+      <File FileName="BethanysPieShop/Views/Shared/_Layout.cshtml" Line="33" Column="60" />
+      <File FileName="BethanysPieShop/Views/Account/Register.cshtml" Line="31" Column="8" />
       <File FileName="BethanysPieShop Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
